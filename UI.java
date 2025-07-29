@@ -3,7 +3,6 @@ import java.awt.event.*;
 import java.io.File;
 import java.awt.FlowLayout;
 
-
 public class ImageEncryptorUI extends JFrame {
     JButton encryptButton, decryptButton;
     JFileChooser fileChooser;
